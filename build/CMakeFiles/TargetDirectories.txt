@@ -1,0 +1,3 @@
+D:/Git Projects/TextureGraph/vendor/clip/build/CMakeFiles/clip.dir
+D:/Git Projects/TextureGraph/vendor/clip/build/CMakeFiles/ALL_BUILD.dir
+D:/Git Projects/TextureGraph/vendor/clip/build/CMakeFiles/ZERO_CHECK.dir

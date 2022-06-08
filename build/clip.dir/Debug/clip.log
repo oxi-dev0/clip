@@ -1,0 +1,20 @@
+﻿  clip.cpp
+  image.cpp
+  clip_win.cpp
+D:\Git Projects\TextureGraph\vendor\clip\clip_win_wic.h(107,20): warning C4018: '<': signed/unsigned mismatch
+D:\Git Projects\TextureGraph\vendor\clip\clip_win_wic.h(109,22): warning C4018: '<': signed/unsigned mismatch
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(244,11): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(255,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(261,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(278,46): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(309,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(330,8): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(331,43): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(387,8): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(388,43): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(524,75): warning C4267: 'argument': conversion from 'size_t' to 'const UINT', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(620,69): warning C4267: 'argument': conversion from 'size_t' to 'const UINT', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(636,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Git Projects\TextureGraph\vendor\clip\clip_win.cpp(639,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  clip.vcxproj -> D:\Git Projects\TextureGraph\vendor\clip\build\Debug\clip-d.lib

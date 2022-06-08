@@ -1,0 +1,10 @@
+^D:\GIT PROJECTS\TEXTUREGRAPH\VENDOR\CLIP\BUILD\CMAKEFILES\35615A8092D66A78DD2AF496F2822ABD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Git Projects/TextureGraph/vendor/clip" "-BD:/Git Projects/TextureGraph/vendor/clip/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Git Projects/TextureGraph/vendor/clip/build/clip.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

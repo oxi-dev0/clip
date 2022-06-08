@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Git Projects\TextureGraph\vendor\clip\build\CMakeFiles\35615a8092d66a78dd2af496f2822abd\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7F3ABC36-014D-35A8-B886-61AEF34C6475}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
